@@ -1,0 +1,11 @@
+<s> a b </s>
+<s> a c d </s>
+<s> a c </s>
+<s> a b e </s>
+<s> a e a </s>
+<s> b e a </s>
+<s> c e b </s>
+<s> a e a c e </s>
+<s> a b c d e </s>
+<s> b c e a c </s>
+<s> c e b a f </s>
